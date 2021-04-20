@@ -1,0 +1,14 @@
+{
+    "name": "csm/htdocs",
+    "authors": [
+        {
+            "name": "Quang Bao",
+            "email": "baonq@mcrew-tech.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.46",
+        "slim/slim": "^3.0",
+        "str/str": "^1.1"
+    }
+}
